@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4A56p1hPJeEqa1VtBP12SHetHO0zhNkXK3fgXOs0ckxuCwiFp8nmJXJWQsx2CX8zwszzob/RCoTzIuCNu6bvw==",
+  "success": true,
+  "projectFilePath": "/home/pol/Desktop/Proyectos/C#/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/pol/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/pol/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/pol/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
